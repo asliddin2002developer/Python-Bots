@@ -5,8 +5,8 @@ import time
 
 chrome_path = "C:\Development\chromedriver.exe"
 similar_account = 'buzzfeedtasty'
-USERNAME = 'asldev2002'
-PASSWORD = 'T##/*g:S+_4ChPR'
+USERNAME = "Your Username"
+PASSWORD = 'Your Password'
 
 class InstaFollower:
 
